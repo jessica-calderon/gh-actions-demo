@@ -1,4 +1,3 @@
-yml
     #  Name of workflow
     name: Lint workflow
     # Trigger workflow on all pull requests
