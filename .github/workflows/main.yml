@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-    #  Name of workflow
-=======
+ #  Name of workflow
+
 #  Name of workflow
->>>>>>> a693ad2da2b96d58698469380ff57756239a584a
     name: Lint workflow
     # Trigger workflow on all pull requests
     on:
